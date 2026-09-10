@@ -1,0 +1,155 @@
+Lernziel 1 - Ich möchte die Eingabeaufforderung selbstständig öffnen und einfache Befehle ausführen können.
+
+Aktueller Stand
+Ich kann die Eingabeaufforderung öffnen, kenne aber bisher nur wenige Befehle.
+
+2. Praktische Relevanz
+Damit kann ich schnell Informationen über meinen Computer finden.
+
+3. Woran erkenne ich, dass ich das Ziel erreicht habe?
+Ich kann die Eingabeaufforderung selbstständig öffnen und mindestens drei einfache Befehle ausführen.
+
+
+Lernziel 2 - Ich möchte wichtige Systeminformationen meines Computers selbstständig finden können.
+
+1. Aktueller Stand
+Ich weiß noch nicht genau, wo ich alle wichtigen Systeminformationen finden kann.
+
+2. Praktische Relevanz
+Diese Informationen sind für IT-Dokumentation und die Fehleranalyse wichtig.
+
+3. Woran erkenne ich, dass ich das Ziel erreicht habe?
+Ich kann den Computernamen, den Benutzernamen und die Betriebssystemversion selbstständig finden.
+
+
+Lernziel 3 - Ich möchte grundlegende Netzwerkinformationen meines Computers finden und verstehen können.
+
+1. Aktueller Stand
+Ich weiß noch nicht genau, welche Netzwerkinformationen wichtig sind und wo ich sie finden kann.
+
+2. Praktische Relevanz
+Netzwerkinformationen helfen bei der Analyse von Internet und Verbindungsproblem.
+
+3. Woran erkenne ich, dass ich das Ziel erreicht habe?
+Ich kann meine IP-Adresse und den aktuellen Netzwerkstatus selbstständig finden.
+
+
+Praxisfall
+
+Ich soll die wichtigsten Basisinformationen meines Computers für die IT-Dokumentation erfassen.
+
+1. Was ist die Aufgabe?
+Die Aufgabe ist, die wichtigsten Basisinformationen meines Computers zu erfassen und für die IT-Dokumentation festzuhalten.
+
+2. Welche Information brauche ich?
+- Gerätename oder Computername
+- Betriebssystem und Version
+- Benutzername
+- IP-Adresse oder Netzwerkinformationen
+- verfügbarer Speicherplatz
+- installierte oder aktive Netzwerkschnittstellen
+- aktueller Status der Internet- oder Netzwerkverbindung
+
+3. Welche Schritte?
+1. Die Eingabeaufforderung öffnen.
+2. Den Computernamen ermitteln.
+3. Den Benutzernamen ermitteln.
+4. Das Betriebssystem und die Version Prüfen.
+5. Die IP-Adresse und Netzwerkinformationen prüfen.
+6. Den verfügbaren Speicherplatz prüfen.
+7. Die Netzwerkschnittstellen prüfen.
+8. Den aktuellen Netzwerkstatus prüfen.
+9. Die Ergebnisse dokumentieren.
+
+4. Welche Tools?
+- Eingabeaufforderung(CMD)
+- Windows-Einstellungen
+- Datei-Explorer
+- Texteditor/Editor
+- Optional: PowerShell oder Terminal
+
+5. Welche Kenntnisse?
+- Grundkenntnisse über Betriebssysteme und Systeminformationen
+- Grundkenntnisse über Benutzerkonten
+- Grundkenntnisse über IP-Adressen und Netzwerke
+- Kenntnisse über Dateisystem und Speicherplatz
+- Grundlegende Nutzung der Eingabeaufforderung und einfacher Befehle
+- Grundlagen der Fehleranalyse
+
+
+Welche Basisdaten müssen für ein Gerät erfasst werden?
+
+1. Geräte- oder Computername
+Der Geräte- oder Computername ist wichtig, damit das Gerät eindeutig identifiziert werden kann.
+
+2. Betriebssystem und Version
+Das Betriebssystem und die Version sind wichtig, damit passende Software und Updates verwendet werden können.
+
+3. Benutzername
+Der Benutzername ist wichtig, damit der Benutzer eindeutig zugeordnet werden kann.
+
+4. IP-Adresse und Netzwerkinformationen
+Die IP-Adresse und Netzwerkinformationen sind wichtig, um die Netzwerkverbindung zu prüfen und Probleme zu analysieren.
+
+5. Verfügbarer Speicherplatz
+Der verfügbare Speicherplatz ist wichtig, damit genügend Platz für Programme, Dateien und Updates vorhanden ist.
+
+6. Netzwerkschnittstellen
+Die Netzwerkschnittstellen sind wichtig, damit man sehen kann, welche Netzwerkverbindungen auf dem Gerät verfügbar und aktiv sind.
+
+7. Aktueller Netzwerkstatus
+Der aktuelle Netzwerkstatus ist wichtig, damit man prüfen kann, ob das Gerät mit dem Netzwerk oder dem Internet verbunden ist.
+
+8. Verwendete Informationsquelle oder Befehl
+Die verwendete Informationsquelle oder der Befehl ist wichtig, damit nachvollziehbar ist, wie die Systeminformation ermittelt wurde.
+
+
+Reflexion
+
+1. Welche Aufgabe ist dir leicht gefallen?
+Mir ist die Arbeit mit einfachen Befehlen in der Eingabeaufforderung leicht gefallen.
+
+2. Wo hast du Zeit verloren oder dich unsicher gefühlt?
+Ich war unsicher, welche Befehle ich verwenden soll und welche Informationen für die Dokumentation wichtig sind.
+
+3. Welche Lernmethode hast du heute hauptsächlich genutzt?
+Ich habe heute hauptsächlich Schritt für Schritt gearbeitet, ausprobiert und Notizen gemacht.
+
+4. Was davon hat dir geholfen?
+Mir hat besonders geholfen, Schritt für Schritt zu arbeiten und die Befehle direkt selbst auszuprobieren.
+Die Notizen haben mir geholfen, die Ergebnisse besser zu verstehen und zu behalten.
+
+5. Was würdest du beim nächsten Mal anders machen?
+Beim nächsten Mal würde ich zuerst einen kurzen Plan machen und die wichtigsten Befehle vorher notieren.
+
+6. Welche 2 nächsten Lernschritte leitest du daraus ab?
+Ich möchte die wichtigsten Befehle in der Eingabeaufforderung wiederholen und selbstständig anwenden.
+Ich möchte üben, System- und Netzwerkinformationen ohne Hilfe zu finden und zu dokumentieren.
+
+
+Persönlicher Verbesserungsplan
+
+In meiner nächsten Lernphase möchte ich weiterhin Schritt für Schritt arbeiten und wichtige Befehle selbst ausprobieren.
+Ich möchte außerdem öfter ohne Hilfe prüfen, welche System- und Netzwerkinformationen ich finden kann.
+Dabei werde ich kurze Notizen machen und am Ende kontrollieren, was ich schon selbstständig kann.
+
+
+Abschlussreflexion
+
+1. Welche deiner Lernziele hast du vollständig erreicht?
+Ich habe meine drei Lernziele erreicht: einfache Befehle ausführen, Systeminformationen finden und Netzwerkinformationen prüfen.
+
+2. Wo konntest du Wissen direkt praktisch anwenden?
+Ich konnte mein Wissen direkt in der Eingabeaufforderung und beim System-Basischeck anwenden.
+
+3. Welche Aufgabe hatte für dich den stärksten Praxisbezug?
+Der System-Basischeck hatte für mich den stärksten Praxisbezug.
+
+4. Welche Lernmethode war heute für dich am hilfreichsten?
+Am hilfreichsten war fur mich das Schritt- für- Schritt-Arbeiten mit direktem Ausprobieren.
+
+5. Was willst du in deiner nächsten Lernphase bewusst beibehalten?
+Ich möchte weiterhin Schritt für Schritt arbeiten und kurze Notizen machen.
+
+6. Was willst du gezielt anders machen, damit du effektiver lernst?
+Ich möchte wichtige Befehle öfter ohne Hilfe wiederholen und selbstständig anwenden.
