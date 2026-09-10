@@ -1,0 +1,219 @@
+Individuelle Learning Phase: Dateisystem, Dateioperationen und Arbeiten mit Anwendungen
+
+Datum: 10.09.2026
+
+AUFGABE 1: ORDNERSTRUKTUR AUFBAUEN
+
+Ich habe auf dem Desktop den Hauptordner „LearningPhase_Dateisystem“ erstellt.
+
+Darin habe ich folgende Unterordner angelegt:
+
+LearningPhase_Dateisystem
+|
+|-- 01_Dokumente
+|   |-- Entwuerfe
+|   `-- Final
+|
+|-- 02_Bilder
+|-- 03_Archiv
+|-- 04_Druck
+`-- 05_Notizen
+
+Der Ordner „LearningPhase_Dateisystem“ ist der übergeordnete Hauptordner.
+Die Ordner „01_Dokumente“, „02_Bilder“, „03_Archiv“, „04_Druck“ und „05_Notizen“ sind untergeordnete Ordner.
+Die Ordner „Entwuerfe“ und „Final“ sind wiederum Unterordner von „01_Dokumente“.
+
+Ergebnis:
+Ich habe eine übersichtliche Ordnerhierarchie mit einem Hauptordner und mehreren Unterordnern erstellt.
+
+
+AUFGABE 2: DATEIEN UND ORDNER ANLEGEN UND EINDEUTIG BENENNEN
+
+Im Ordner „05_Notizen“ habe ich die Datei „aufgabenliste.txt“ erstellt.
+
+Inhalt von aufgabenliste.txt:
+- Ordner erstellt
+- Dateien angelegt
+- Dokument gespeichert
+- Berechnung durchgeführt
+- Druck vorbereitet
+
+Danach habe ich im Ordner „01_Dokumente/Entwuerfe“ die Datei „projektinfo.txt“ erstellt.
+
+Inhalt von projektinfo.txt:
+
+Name: Vasylchuk Liudmyla
+Datum: 25.08.2026
+
+Zweck:
+Diese Ordnerstruktur hilft mir dabei, meine Dateien übersichtlich zu organisieren und schnell wiederzufinden.
+
+Ergebnis:
+Ich habe zwei Dateien erstellt, sinnvoll benannt und an den richtigen Speicherorten gespeichert.
+Ein Ordner enthält Dateien oder weitere Ordner. Eine Datei enthält dagegen Informationen oder Inhalte.
+
+
+AUFGABE 3: DATEIEN KOPIEREN, VERSCHIEBEN UND LÖSCHEN
+
+Ich habe mit der Datei „projektinfo.txt“ gearbeitet.
+
+1. Ich habe „projektinfo.txt“ aus „01_Dokumente/Entwuerfe“ nach „03_Archiv“ kopiert.
+2. Danach habe ich die Originaldatei aus „Entwuerfe“ in „01_Dokumente/Final“ verschoben.
+3. Im Ordner „02_Bilder“ habe ich den Testordner „Temp“ erstellt.
+4. In „Temp“ habe ich eine leere Testdatei angelegt.
+5. Anschließend habe ich die Testdatei und danach den Ordner „Temp“ gelöscht.
+
+Kontrolle:
+- Eine Kopie von „projektinfo.txt“ befindet sich in „03_Archiv“.
+- Das Original befindet sich in „01_Dokumente/Final“.
+- Der Testordner „Temp“ wurde wieder entfernt.
+
+Wichtiger Unterschied:
+Beim Kopieren bleibt die Originaldatei am ursprünglichen Ort erhalten.
+Beim Verschieben wird die Datei an einen neuen Speicherort übertragen und befindet sich danach nicht mehr am ursprünglichen Ort.
+
+
+AUFGABE 4: DOKUMENT ÖFFNEN, BEARBEITEN, SPEICHERN UND FÜR DEN DRUCK VORBEREITEN
+
+Ich habe „projektinfo.txt“ aus dem Ordner „01_Dokumente/Final“ geöffnet und ergänzt.
+
+Inhalt:
+
+PROJEKTINFO
+
+Heute erledigte Aufgaben:
+- Ordnerstruktur erstellt
+- Dateien kopiert und verschoben
+- Dokument für den Druck vorbereitet
+
+Abschlusssatz:
+Durch diese Aufgabe habe ich gelernt, Dateien übersichtlich zu organisieren und grundlegende Dateioperationen sicher auszuführen.
+
+Ich habe das Dokument unter demselben Namen gespeichert.
+
+Danach habe ich eine zweite Version im Ordner „04_Druck“ unter dem Namen „projektinfo_druckversion.txt“ gespeichert.
+
+Anschließend habe ich die Druckfunktion geöffnet und die Möglichkeit geprüft, das Dokument über „Microsoft Print to PDF“ beziehungsweise „Als PDF drucken“ als PDF auszugeben.
+
+Ergebnis:
+Ich habe ein Dokument geöffnet, bearbeitet, gespeichert und eine separate Druckversion angelegt.
+
+
+AUFGABE 5: EINFACHE BERECHNUNGEN DURCHFÜHREN UND DOKUMENTIEREN
+
+Ich habe den Taschenrechner geöffnet und folgende Berechnungen durchgeführt:
+
+125 + 87 = 212
+450 - 198 = 252
+24 × 6 = 144
+144 ÷ 12 = 12
+19,99 + 5,50 + 3,20 = 28,69
+
+Im Ordner „05_Notizen“ habe ich die Datei „berechnungen.txt“ erstellt und alle Aufgaben mit ihren Ergebnissen eingetragen.
+
+Danach habe ich die Datei gespeichert und erneut geöffnet, um zu prüfen, ob alle Inhalte vorhanden sind.
+
+Ergebnis:
+Alle Berechnungen wurden dokumentiert und die Datei wurde erfolgreich gespeichert.
+
+
+ERWEITERUNGSAUFGABE 1: DATEIABLAGE VERBESSERN
+
+Ich habe den Hauptordner um zwei zusätzliche Unterordner erweitert:
+
+- 06_Rechnungen
+- 07_Vorlagen
+
+Damit sieht die erweiterte Struktur so aus:
+
+LearningPhase_Dateisystem
+|
+|-- 01_Dokumente
+|   |-- Entwuerfe
+|   `-- Final
+|-- 02_Bilder
+|-- 03_Archiv
+|-- 04_Druck
+|-- 05_Notizen
+|-- 06_Rechnungen
+`-- 07_Vorlagen
+
+Außerdem habe ich einen Dateinamen eindeutiger gemacht:
+Aus „projektinfo_druckversion.txt“ wurde „projektinfo_druckversion_2026-08-25.txt“.
+
+Ergebnis:
+Die Ablage ist übersichtlicher und die Dateinamen zeigen deutlicher, welchen Inhalt oder Zweck die Dateien haben.
+
+
+ERWEITERUNGSAUFGABE 2: ARCHIVVERSION ANLEGEN
+
+Im Ordner „03_Archiv“ habe ich eine zusätzliche Archivversion erstellt:
+
+„projektinfo_2026-08-25_archiv.txt“
+
+In die Datei habe ich zusätzlich folgende Zeile geschrieben:
+
+Hinweis: Dies ist ein archivierter Bearbeitungsstand vom 25.08.2026.
+
+Vergleich:
+- Aktive Datei:
+  LearningPhase_Dateisystem/01_Dokumente/Final/projektinfo.txt
+
+- Archivdatei:
+  LearningPhase_Dateisystem/03_Archiv/projektinfo_2026-08-25_archiv.txt
+
+Die aktive Datei ist die aktuelle Arbeitsversion.
+Die Archivdatei dient dazu, einen älteren Bearbeitungsstand nachvollziehbar aufzubewahren.
+
+
+ERWEITERUNGSAUFGABE 3: MINI-ARBEITSMAPPE ERSTELLEN
+
+Im Ordner „01_Dokumente/Final“ habe ich die Datei „tagesuebersicht.txt“ erstellt.
+
+Inhalt:
+
+TAGESÜBERSICHT
+
+Erledigte Aufgaben:
+- Ordnerstruktur aufgebaut
+- Dateien kopiert, verschoben und gespeichert
+- Berechnungen mit dem Taschenrechner durchgeführt
+
+Berechnungsergebnisse:
+125 + 87 = 212
+24 × 6 = 144
+
+Die Druckversion befindet sich im Ordner „04_Druck“.
+
+Danach habe ich eine Kopie von „tagesuebersicht.txt“ im Ordner „03_Archiv“ gespeichert.
+
+Ergebnis:
+Ich habe eine vollständige Tagesübersicht erstellt und zusätzlich archiviert.
+
+
+REFLEXION
+
+1. Wie erkennst du in deiner Struktur, welcher Ordner übergeordnet und welcher untergeordnet ist?
+Der Hauptordner enthält weitere Ordner und ist deshalb übergeordnet. Unterordner liegen innerhalb eines anderen Ordners. Im Datei-Explorer kann ich die Hierarchie an der eingerückten Struktur und am angezeigten Pfad erkennen.
+
+2. Woran erkennst du sicher den Unterschied zwischen einer Datei und einem Ordner?
+Ein Ordner dient zum Speichern und Organisieren von Dateien und weiteren Ordnern. Eine Datei enthält konkrete Informationen, zum Beispiel Text. Im Datei-Explorer haben Ordner und Dateien außerdem unterschiedliche Symbole und Dateien besitzen häufig eine Dateiendung wie „.txt“.
+
+3. Bei welchem Schritt war für dich der Unterschied zwischen Kopieren und Verschieben besonders wichtig?
+Besonders wichtig war der Unterschied bei „projektinfo.txt“. Die Datei sollte als Kopie im Archiv erhalten bleiben, während das Original aus „Entwuerfe“ nach „Final“ verschoben werden sollte.
+
+4. Wie helfen dir eindeutige Dateinamen beim Wiederfinden von Inhalten?
+Eindeutige Dateinamen zeigen direkt, was eine Datei enthält und welche Version es ist. Ein Datum im Dateinamen hilft mir zusätzlich, verschiedene Bearbeitungsstände auseinanderzuhalten.
+
+5. Wie bist du vorgegangen, um ein Dokument für den Druck vorzubereiten?
+Ich habe zuerst die Datei geöffnet und bearbeitet. Danach habe ich sie gespeichert und eine zweite Version im Ordner „04_Druck“ angelegt. Anschließend habe ich die Druckfunktion geöffnet und die PDF-Ausgabe geprüft.
+
+6. Wie hast du geprüft, ob deine Dateien am richtigen Ort gespeichert wurden?
+Ich habe nach jedem Schritt den entsprechenden Ordner im Datei-Explorer geöffnet und kontrolliert, ob die Datei dort vorhanden ist. Zusätzlich habe ich gespeicherte Dateien erneut geöffnet, um den Inhalt zu überprüfen.
+
+
+FAZIT
+
+Durch diese Learning Phase habe ich gelernt, eine übersichtliche Ordnerstruktur aufzubauen und Dateien sinnvoll zu benennen. Ich kann Dateien erstellen, kopieren, verschieben, löschen und an unterschiedlichen Speicherorten ablegen. Außerdem kann ich Textdokumente bearbeiten, eine Druckversion vorbereiten und Berechnungsergebnisse dokumentieren.
+
+Besonders wichtig war für mich der Unterschied zwischen Kopieren und Verschieben. Klare Ordner- und Dateinamen helfen mir dabei, meine Dateien schnell wiederzufinden und verschiedene Versionen voneinander zu unterscheiden.
