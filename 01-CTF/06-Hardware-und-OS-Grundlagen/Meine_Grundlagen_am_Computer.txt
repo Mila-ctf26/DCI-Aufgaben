@@ -1,0 +1,182 @@
+Meine Grundlagen am Computer
+
+AUFGABE 1: HARDWARE-KOMPONENTEN
+
+Prozessor – in den Windows-Systeminformationen – verarbeitet Befehle und Berechnungen.
+Arbeitsspeicher (RAM) – in den Windows-Systeminformationen – speichert aktuell benötigte Daten vorübergehend.
+Laufwerk / Speicher – im Datei-Explorer unter „Dieser PC“ – speichert Programme und Dateien dauerhaft.
+Bildschirm – direkt am Gerät – zeigt Informationen, Programme, Texte und Bilder an.
+Tastatur – direkt am Gerät – dient zur Eingabe von Text und Befehlen.
+Maus – direkt am Gerät – dient zum Anklicken, Auswählen und Navigieren.
+Anschlüsse / Peripherie – direkt am Gerät – verbinden USB-Geräte, Headset, Maus und andere Geräte.
+
+Ergebnis:
+Ich kann die wichtigsten Hardware-Komponenten unterscheiden und ihre Grundfunktionen erklären.
+
+AUFGABE 2: DESKTOP, STARTMENÜ UND TASKLEISTE
+
+Desktop:
+Der Desktop ist meine zentrale Arbeitsfläche. Dort sehe ich Symbole, Verknüpfungen und den Hintergrund.
+
+Startmenü:
+Über das Startmenü kann ich Programme suchen und starten sowie Einstellungen und Systemfunktionen finden.
+
+Taskleiste:
+Die Taskleiste zeigt angeheftete und aktuell geöffnete Programme. Über sie kann ich zwischen geöffneten Anwendungen wechseln.
+
+Ich habe zwei Programme geöffnet, zwischen ihnen gewechselt und anschließend eines geschlossen.
+
+Ergebnis:
+Ich kann Desktop, Startmenü und Taskleiste unterscheiden und gezielt verwenden.
+
+AUFGABE 3: FENSTER UND SYSTEMNAVIGATION
+
+Ich habe folgende Aktionen ausprobiert:
+- Fenster verschieben
+- Fenster vergrößern und verkleinern
+- Fenster minimieren und wiederherstellen
+- Zwei Fenster nebeneinander anordnen
+- Zwischen Fenstern wechseln
+- Ein Fenster schließen
+
+Danach habe ich den Datei-Explorer geöffnet und verschiedene Ordner aufgerufen. Dabei habe ich die Zurück- und Vorwärts-Funktion, den Navigationsbereich und Doppelklick verwendet.
+
+Meine Systemnavigation:
+- Das Öffnen und Schließen von Fenstern ist für mich leicht.
+- Das Minimieren und Wiederherstellen funktioniert gut.
+- Ich kann über die Taskleiste zwischen Programmen wechseln.
+- Im Datei-Explorer kann ich verschiedene Ordner öffnen.
+- Die Zurück- und Vorwärts-Schaltflächen helfen mir bei der Navigation.
+
+AUFGABE 4: SYSTEMEINSTELLUNGEN
+
+Uhrzeit und Datum:
+Ich habe Uhrzeit, Datum und Zeitzone geprüft.
+
+Sprache und Region:
+Ich habe die eingestellte Sprache und die Eingabesprache geprüft.
+
+Anzeige / Bildschirm:
+Ich habe die Anzeigeoptionen wie Helligkeit, Skalierung und Auflösung angesehen.
+
+Ergebnis:
+Ich kann wichtige Systemeinstellungen öffnen und grundlegende Optionen finden und prüfen.
+
+AUFGABE 5: SYSTEMZUSTÄNDE
+
+Die Optionen für Sperren, Abmelden, Herunterfahren und Neustarten finde ich über das Startmenü beziehungsweise den Benutzer- und Ein/Aus-Bereich.
+
+- Sperren: Programme bleiben geöffnet, der Computer wird vor fremdem Zugriff geschützt.
+- Abmelden: Die Benutzersitzung wird beendet.
+- Herunterfahren: Windows und der Computer werden vollständig beendet.
+- Neustarten: Windows wird beendet und der Computer automatisch wieder gestartet.
+
+Im Alltag:
+- Sperren, wenn ich den Arbeitsplatz kurz verlasse.
+- Abmelden, wenn ein anderer Benutzer den Computer verwenden soll.
+- Herunterfahren, wenn ich den Computer nicht mehr brauche.
+- Neustarten zum Beispiel nach Updates oder wenn das System einen Neustart benötigt.
+
+ERWEITERUNGSAUFGABE 1: HARDWARE-CHECK
+
+Ich habe vorhandene Systeminformationen meines Computers geprüft.
+
+Gefundene Informationen:
+- Computername: Arbeiten
+- Betriebssystem: Windows 11 Pro, Version 25H2, Build 26200.9168
+- Laufwerk C: 476 GB Gesamtspeicher, davon 392 GB frei
+- Aktive Netzwerkschnittstelle: WLAN
+
+Weitere sichtbare, aktuell getrennte Netzwerkschnittstellen:
+- Drahtlos-LAN-Verbindung 2
+- Mobiler Breitbandadapter Mobilfunk
+- Bluetooth-Netzwerkverbindung
+
+Zusätzliche Hardware- und Anzeigeinformationen:
+- Prozessor: Intel(R) Core(TM) i5-8365U CPU @ 1.60GHz
+- Arbeitsspeicher (RAM): 16,0 GB
+- Speicher: 477 GB
+- Grafikkarte: Intel(R) UHD Graphics 620
+- Bildschirmauflösung: 1920 × 1080 (empfohlen)
+- Skalierung: 150 % (empfohlen)
+- Bildschirmausrichtung: Querformat
+
+ERWEITERUNGSAUFGABE 2: ARBEITSPLATZ
+
+Ich habe Möglichkeiten geprüft, meine Arbeitsoberfläche sinnvoll einzurichten:
+- häufig verwendete Anwendungen an die Taskleiste anheften
+- Uhrzeit und Datum prüfen
+- Anzeigeoptionen anpassen
+- zwei Fenster nebeneinander verwenden
+
+Besonders praktisch finde ich zwei Fenster nebeneinander. Dadurch kann ich eine Aufgabe lesen und gleichzeitig Notizen schreiben.
+
+ERWEITERUNGSAUFGABE 3: MINI-DOKUMENTATION
+
+Wichtige Hardware-Komponenten:
+- Prozessor
+- Arbeitsspeicher
+- Laufwerk
+- Bildschirm
+- Tastatur und Maus
+
+Wichtige Bedienelemente:
+- Desktop
+- Startmenü
+- Taskleiste
+- Datei-Explorer
+
+Wichtige Einstellungen:
+- Datum, Uhrzeit und Zeitzone
+- Sprache und Region
+- Eingabesprache
+- Anzeige und Auflösung
+
+Wichtige Systemaktionen:
+- Sperren
+- Abmelden
+- Herunterfahren
+- Neustarten
+
+REFLEXION
+
+1. Welche Hardware-Komponente konntest du am leichtesten einordnen?
+Tastatur, Maus und Bildschirm konnte ich am leichtesten einordnen, weil ich sie direkt sehen und benutzen kann.
+
+2. Welche Funktion von Desktop, Startmenü oder Taskleiste nutzt du jetzt sicherer als vorher?
+Ich kann das Startmenü und die Taskleiste sicherer verwenden, um Programme zu öffnen und zwischen Anwendungen zu wechseln.
+
+3. Welche Fensterfunktion war für dich am praktischsten?
+Am praktischsten finde ich, zwei Fenster nebeneinander anzuordnen.
+
+4. Welche Systemeinstellung war leicht zu finden, welche eher nicht?
+Datum und Uhrzeit waren leicht zu finden. Die verschiedenen Anzeigeoptionen musste ich genauer ansehen.
+
+5. Wann würdest du sperren, wann abmelden und wann neu starten?
+Ich sperre den Computer, wenn ich meinen Arbeitsplatz kurz verlasse. Ich melde mich ab, wenn meine Benutzersitzung beendet werden soll. Ich starte neu, wenn Windows oder ein Programm einen Neustart benötigt.
+
+6. Was möchtest du beim nächsten Mal noch sicherer beherrschen?
+Ich möchte die Systemeinstellungen noch schneller finden und mehr über Hardware- und Geräteinformationen lernen.
+
+FAZIT
+
+Durch diese Learning Phase habe ich die wichtigsten Hardware-Komponenten und Bedienelemente von Windows praktisch angewendet. Ich kann Programme über das Startmenü öffnen, zwischen Fenstern wechseln, im Datei-Explorer navigieren und wichtige Systemeinstellungen finden. Außerdem kenne ich die Unterschiede zwischen Sperren, Abmelden, Herunterfahren und Neustarten.
+
+
+ZUSÄTZLICHE SYSTEMINFORMATIONEN AUS DEM SYSTEMCHECK
+
+- Computername: Arbeiten
+- Betriebssystem: Windows 11 Pro, Version 25H2, Build 26200.9168
+- Benutzername: lvasi
+- Speicherplatz auf Laufwerk C: 392 GB von 476 GB frei
+- Aktive Netzwerkschnittstelle: WLAN
+- Netzwerkverbindung: aktiv
+- Verbindungstest: 4 Pakete gesendet, 4 empfangen, 0 % Paketverlust
+
+Verwendete Informationsquellen:
+- hostname
+- winver
+- whoami
+- ipconfig
+- Datei-Explorer unter „Dieser PC“
+- ping 8.8.8.8
