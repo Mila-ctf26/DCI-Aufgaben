@@ -1,6 +1,6 @@
 Individuelle Learning Phase: Dateisystem, Dateioperationen und Arbeiten mit Anwendungen
 
-Datum: 10.09.2026
+Datum: 25.08.2026
 
 AUFGABE 1: ORDNERSTRUKTUR AUFBAUEN
 
