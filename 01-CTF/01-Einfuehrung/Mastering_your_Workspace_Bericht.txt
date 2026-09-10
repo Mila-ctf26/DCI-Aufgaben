@@ -1,0 +1,83 @@
+Individual Learning Phase: „Mastering your Workspace“
+Bericht
+
+Teil 1: Die Digitale Zentrale – System-Check & Grundkonfiguration
+
+1. Das Herzstück aktualisieren
+Ich habe mein System auf verfügbare Windows-Updates überprüft und die notwendigen Sicherheitsupdates und Treiber aktualisiert. Besonders bei einem neuen Gerät ist das wichtig, weil dadurch bekannte Sicherheitslücken geschlossen, Fehler behoben und die Stabilität des Systems verbessert werden.
+
+2. Sicherheit & Zugriff
+Ich habe die verfügbaren Anmeldemethoden meines Laptops überprüft. Dazu gehören Kennwort, PIN und – je nach Gerät – biometrische Methoden wie Fingerabdruck oder Gesichtserkennung. Ich habe eine sichere und gleichzeitig praktische Anmeldemethode gewählt.
+
+Außerdem habe ich die Firewall-Einstellungen kontrolliert und geprüft, ob der Viren- und Bedrohungsschutz aktiv ist. Dadurch wird das Gerät besser vor unerwünschten Netzwerkzugriffen, Schadsoftware und anderen Bedrohungen geschützt.
+
+3. Die Arbeitsumgebung – Software
+Ich habe die Programme und Browser geprüft bzw. eingerichtet, die ich für meine Arbeit und meine Lernaufgaben benötige.
+
+Zusätzlich habe ich den Autostart überprüft. Programme, die nicht direkt nach dem Hochfahren benötigt werden, sollten nicht automatisch gestartet werden. Dadurch startet das System schneller und es werden weniger Ressourcen im Hintergrund verbraucht.
+
+4. Dateimanagement
+Ich habe meine Dateien und Ordner strukturiert und eine logische Ordnerstruktur für meine Projekte und Lernaufgaben erstellt. Dabei habe ich auf klare und verständliche Dateinamen geachtet, damit ich die Inhalte auch später schnell wiederfinden kann.
+
+Für meine Dateien nutze ich ein einheitliches Benennungssystem und speichere zusammengehörige Dokumente in passenden Projektordnern.
+
+
+Teil 2: Personalisierung & Workflow-Optimierung
+
+1. Visuelle Ergonomie
+Ich habe die Anzeigeeinstellungen meines Laptops überprüft und angepasst. Dazu gehören Helligkeit, Skalierung und der Nachtmodus.
+
+Ich habe die Helligkeit so eingestellt, dass der Bildschirm angenehm lesbar ist und meine Augen bei längerer Arbeit möglichst wenig belastet werden. Der Nachtmodus kann besonders am Abend helfen, den Blauanteil des Bildschirmlichts zu reduzieren.
+
+Zusätzlich habe ich ein ruhiges und übersichtliches Hintergrundbild gewählt, das nicht von der Arbeit ablenkt.
+
+2. Eingabe-Tuning
+Ich habe die Einstellungen für Touchpad und Maus überprüft. Dabei habe ich auf Zeigergeschwindigkeit, Scrollverhalten und Gesten geachtet.
+
+Gesten wie Scrollen mit zwei Fingern, Zoomen oder das Wechseln zwischen geöffneten Fenstern können den Arbeitsablauf beschleunigen und die Bedienung komfortabler machen.
+
+3. Benachrichtigungs-Management
+Ich habe die Benachrichtigungseinstellungen von Windows überprüft und angepasst. Unwichtige Benachrichtigungen können deaktiviert werden, damit sie nicht ständig die Konzentration unterbrechen.
+
+Zusätzlich kann der Fokusmodus verwendet werden, wenn man für eine bestimmte Zeit konzentriert arbeiten möchte.
+
+
+Teil 3: Der physische Arbeitsplatz – Ergonomie & Wohlbefinden
+
+1. Hardware-Checkup
+Ich habe meinen Arbeitsplatz nach ergonomischen Gesichtspunkten überprüft.
+
+Die Ellbogen sollten ungefähr in einem Winkel von 90 Grad gebeugt sein. Auch die Knie sollten etwa einen rechten Winkel bilden und die Füße möglichst vollständig auf dem Boden stehen.
+
+Die Oberkante des Monitors sollte ungefähr auf Augenhöhe oder leicht darunter liegen. Dadurch kann man den Kopf möglichst gerade halten und Nacken sowie Schultern entlasten.
+
+Der Bildschirm sollte außerdem in einem angenehmen Abstand stehen, sodass Texte gut lesbar sind, ohne dass man sich nach vorne beugen muss.
+
+2. Ordnung & Fokus
+Ich habe meinen Arbeitsplatz aufgeräumt und darauf geachtet, dass möglichst nur die Dinge auf dem Schreibtisch liegen, die ich für meine Arbeit benötige.
+
+Kabel habe ich so geordnet, dass sie nicht stören und der Arbeitsplatz übersichtlich bleibt. Ein aufgeräumter Schreibtisch reduziert Ablenkungen und unterstützt konzentriertes Arbeiten.
+
+3. Wohlfühl-Faktoren
+Ich habe die Lichtverhältnisse an meinem Arbeitsplatz überprüft. Dabei habe ich darauf geachtet, dass möglichst keine störenden Reflexionen auf dem Bildschirm entstehen und genügend Licht vorhanden ist.
+
+Tageslicht ist angenehm, sollte aber nicht direkt auf den Bildschirm fallen.
+
+Zusätzlich habe ich überlegt, welche Dinge meinen Arbeitsplatz angenehmer machen können. Dazu gehören zum Beispiel eine Wasserflasche, ein Notizblock, eine Pflanze oder andere kleine Dinge, die nützlich sind und nicht ablenken.
+
+
+Selbstreflexion
+
+Das System
+Bei der Einrichtung meines Laptops habe ich verschiedene Systemeinstellungen genauer kennengelernt. Besonders hilfreich war es, die Sicherheits-, Autostart- und Benachrichtigungseinstellungen bewusst zu überprüfen.
+
+Der Workflow
+Den größten Einfluss auf konzentriertes Arbeiten haben für mich die Benachrichtigungseinstellungen und ein aufgeräumter Autostart. Weniger unnötige Programme und Unterbrechungen sorgen für einen ruhigeren Arbeitsablauf.
+
+Die Umgebung
+Nach dem Aufräumen und ergonomischen Anpassen des Arbeitsplatzes wirkt die Arbeitsumgebung übersichtlicher und angenehmer. Dadurch fällt es leichter, sich auf eine Aufgabe zu konzentrieren.
+
+Nachhaltigkeit
+Ich möchte die neue Ordnung beibehalten, indem ich Dateien regelmäßig in die passenden Ordner verschiebe, unnötige Dateien lösche und den Desktop möglichst übersichtlich halte.
+
+Auch meinen Arbeitsplatz möchte ich regelmäßig aufräumen und nur die Dinge auf dem Schreibtisch lassen, die ich tatsächlich benötige.
