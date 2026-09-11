@@ -1,0 +1,363 @@
+Individuelle Learning Phase: Virtualisierung verstehen und eine einfache VM-Umgebung planen
+
+Arbeitsdokument / Bericht
+
+AUFGABE 1: IST-AUFNAHME – PHYSISCH VS. VIRTUELL
+
+CPU
+Physische Hardware:
+Die physische CPU ist ein echter Prozessor, der im Computer eingebaut ist. Sie ist Teil der realen Hardware des Hosts.
+
+Virtuelle Hardware:
+Eine virtuelle CPU (vCPU) wird vom Hypervisor aus den Ressourcen der physischen CPU bereitgestellt. Eine VM kann zum Beispiel 2 vCPUs erhalten.
+
+Warum ist die Unterscheidung wichtig?
+Die VM nutzt keine eigene echte CPU, sondern einen zugewiesenen Teil der Host-Ressourcen. Deshalb darf man der VM nicht mehr Rechenleistung zuweisen, als der Host sinnvoll bereitstellen kann.
+
+Arbeitsspeicher
+Physische Hardware:
+Der physische Arbeitsspeicher ist der reale RAM im Computer.
+
+Virtuelle Hardware:
+Der Hypervisor weist einer VM einen bestimmten Teil des vorhandenen RAMs zu. Bei meiner Lubuntu-VM sind 4096 MB, also 4 GB, eingestellt.
+
+Warum ist die Unterscheidung wichtig?
+Wenn eine VM zu viel RAM erhält, bleibt dem Host zu wenig Arbeitsspeicher. Wenn sie zu wenig erhält, arbeitet das Gastbetriebssystem langsam.
+
+Festplatte / Speicher
+Physische Hardware:
+Die physische Festplatte oder SSD ist ein echtes Speichermedium im Rechner.
+
+Virtuelle Hardware:
+Die VM verwendet eine virtuelle Festplattendatei. Bei meiner VM ist das die Datei Lubuntu_spaß.vdi. Sie hat eine virtuelle Größe von 25 GB und ist dynamisch belegt.
+
+Warum ist die Unterscheidung wichtig?
+Die virtuelle Festplatte liegt als Datei auf dem Host. Deshalb hängt die VM auch vom freien Speicherplatz des Hosts ab.
+
+Netzwerkkarte
+Physische Hardware:
+Die physische Netzwerkkarte verbindet den Host mit einem Netzwerk, zum Beispiel über WLAN oder Ethernet.
+
+Virtuelle Hardware:
+Die VM erhält eine virtuelle Netzwerkkarte. Bei meiner Lubuntu-VM ist der virtuelle Adapter aktiviert und aktuell als Host-only Adapter eingerichtet.
+
+Warum ist die Unterscheidung wichtig?
+Der Netzwerkmodus bestimmt, welche Verbindungen die VM herstellen kann, zum Beispiel nur zum Host, zum lokalen Netzwerk oder ins Internet.
+
+
+AUFGABE 2: PRAXISBEZUG – EINSATZGEBIETE VON VIRTUALISIERUNG
+
+Szenario:
+Ein kleines Unternehmen mit 25 Arbeitsplätzen möchte neue Software testen, einen alten Fachanwendungsserver weiter betreiben, Schulungsumgebungen bereitstellen und Hardwarekosten gering halten.
+
+1. Software sicher testen
+Ausgangssituation:
+Neue Programme sollen ausprobiert werden, ohne produktive PCs zu gefährden.
+
+Wie hilft Virtualisierung?
+Für Tests kann eine separate VM eingerichtet werden. Fehler oder instabile Software bleiben auf die VM begrenzt.
+
+Vorteil:
+Das Unternehmen schützt produktive Systeme und kann Tests gefahrloser durchführen.
+
+2. Alten Fachanwendungsserver weiter betreiben
+Ausgangssituation:
+Eine ältere Anwendung benötigt ein älteres Betriebssystem.
+
+Wie hilft Virtualisierung?
+Der alte Server kann als VM auf moderner Hardware weiterbetrieben werden.
+
+Vorteil:
+Die Anwendung kann weiter genutzt werden, ohne alte physische Hardware dauerhaft betreiben zu müssen.
+
+3. Schulungsumgebungen für neue Mitarbeitende
+Ausgangssituation:
+Neue Mitarbeitende sollen üben können, ohne echte Arbeitsdaten oder produktive Systeme zu verändern.
+
+Wie hilft Virtualisierung?
+Für Schulungen können vorbereitete VMs mit identischer Konfiguration bereitgestellt werden.
+
+Vorteil:
+Alle Lernenden arbeiten in einer kontrollierten Umgebung, die bei Bedarf schnell zurückgesetzt werden kann.
+
+4. Hardwarekosten reduzieren
+Ausgangssituation:
+Für mehrere kleine Serveraufgaben wären sonst mehrere physische Rechner nötig.
+
+Wie hilft Virtualisierung?
+Mehrere VMs können auf einem leistungsfähigen Host betrieben werden.
+
+Vorteil:
+Weniger physische Geräte bedeuten geringere Anschaffungs-, Strom- und Wartungskosten.
+
+
+AUFGABE 3: HYPERVISOREN EINORDNEN
+
+Hypervisor Typ 1
+Wo läuft er?
+Direkt auf der physischen Hardware.
+
+Typische Einsatzumgebung:
+Server, Rechenzentren und professionelle Virtualisierungsplattformen.
+
+Vorteile:
+- gute Leistung
+- direkte Nutzung der Hardware
+- gut für viele VMs geeignet
+- professionelles Management möglich
+
+Nachteile:
+- Einrichtung meist komplexer
+- oft für Serverbetrieb gedacht
+
+Geeignete Zielgruppe:
+Unternehmen, Administratoren und Serverumgebungen.
+
+Hypervisor Typ 2
+Wo läuft er?
+Als Programm auf einem vorhandenen Host-Betriebssystem.
+
+Typische Einsatzumgebung:
+Arbeitsplatz-PCs, Lernumgebungen, Tests und Entwicklung.
+
+Vorteile:
+- einfach zu installieren
+- gut für Lernen und Tests
+- vorhandenes Betriebssystem bleibt erhalten
+
+Nachteile:
+- zusätzliche Abhängigkeit vom Host-Betriebssystem
+- etwas mehr Overhead
+
+Geeignete Zielgruppe:
+Lernende, Entwickler und Einzelanwender.
+
+Beispiele für Virtualisierungssoftware
+
+VirtualBox
+Typ: eher Typ 2
+Typische Verwendung:
+Lernumgebungen, Testsysteme, Linux-VMs, kleine Laborumgebungen.
+
+VMware Workstation Player / Workstation
+Typ: Typ 2
+Typische Verwendung:
+Desktop-Virtualisierung, Tests und Entwicklung.
+
+VMware ESXi
+Typ: Typ 1
+Typische Verwendung:
+Servervirtualisierung in Unternehmen und Rechenzentren.
+
+Hyper-V
+Einordnung:
+Hyper-V wird in Serverumgebungen als Typ-1-Hypervisor eingeordnet. Unter Windows wirkt die Bedienung zwar wie eine Funktion des Betriebssystems, technisch arbeitet der Hypervisor direkt auf der Hardware.
+Typische Verwendung:
+Windows-basierte Unternehmens- und Servervirtualisierung.
+
+
+AUFGABE 4: VIRTUELLE MASCHINE PLANEN
+
+Zweck:
+Testumgebung für ein Standard-Büro-System, in der Software gefahrlos ausprobiert werden kann.
+
+Geplante Ausstattung
+
+Virtuelle CPUs:
+2 vCPUs
+
+Begründung:
+2 virtuelle CPUs reichen für ein leichtes Büro- oder Linux-Testsystem in vielen Fällen aus und belasten den Host nicht unnötig stark.
+
+Arbeitsspeicher:
+4 GB RAM
+
+Begründung:
+4 GB sind für eine einfache Testumgebung mit leichtem Desktop realistisch. Bei meiner Lubuntu-VM sind ebenfalls 4096 MB eingestellt.
+
+Virtuelle Festplatte:
+25 GB, dynamisch belegt
+
+Begründung:
+25 GB reichen für ein kleines Testsystem mit einigen Programmen aus. Durch dynamische Belegung wird auf dem Host nur der tatsächlich benötigte Speicher verwendet.
+
+Virtuelle Netzwerkkarte:
+1 aktivierter Adapter
+
+Netzwerkmodus:
+Für eine isolierte Testumgebung ist Host-only sinnvoll, wenn die VM nur mit dem Host oder anderen Test-VMs kommunizieren soll. Für Internetzugriff wäre NAT eine praktische Alternative.
+
+Konkretes Beispiel aus meiner VM:
+- Ubuntu 24.04 LTS, 64-Bit
+- 2 vCPUs
+- 4 GB RAM
+- 25 GB VDI-Festplatte
+- dynamisch belegt
+- Host-only Adapter
+- virtueller Adaptertyp: Intel PRO/1000 MT Desktop (82540EM)
+
+Risiken bei zu wenig Ressourcen
+- System startet langsam
+- Programme reagieren verzögert
+- Updates oder Installationen dauern lange
+- zu wenig Speicher kann zu Fehlern führen
+
+Probleme bei zu großzügiger Zuweisung
+- Host wird langsam
+- andere VMs bekommen zu wenig Ressourcen
+- unnötig hoher Speicher- und CPU-Verbrauch
+- paralleles Arbeiten wird erschwert
+
+Warum muss die Host-Hardware leistungsfähig sein?
+Alle virtuellen Ressourcen stammen letztlich vom Host. CPU, RAM und Speicher müssen also insgesamt ausreichend vorhanden sein, damit Host und VMs gleichzeitig stabil arbeiten können.
+
+
+AUFGABE 5: MINI-KONZEPT – EMPFEHLUNG FÜR EINE VIRTUALISIERUNGSLÖSUNG
+
+Anlass
+Das Unternehmen möchte Software sicher testen, ältere Anwendungen weiter betreiben, Schulungsumgebungen bereitstellen und Hardwarekosten reduzieren.
+
+Empfohlene Hypervisor-Art
+Für zentrale Serveraufgaben eignet sich ein Typ-1-Hypervisor besser, weil er leistungsfähig und für mehrere produktive VMs geeignet ist.
+
+Passendes Softwarebeispiel
+VMware ESXi oder Microsoft Hyper-V können für eine kleine Unternehmensumgebung passend sein.
+
+Typische Einsatzbereiche
+- Test-VMs für neue Software
+- virtuelle Server für ältere Fachanwendungen
+- vorbereitete Schulungs-VMs für neue Mitarbeitende
+
+Vorteile
+- bessere Auslastung der Hardware
+- weniger physische Geräte
+- einfachere Trennung von Test- und Produktivsystemen
+- VMs können gesichert, kopiert und bei Bedarf zurückgesetzt werden
+- Schulungsumgebungen lassen sich standardisieren
+
+Beispiel-VM
+- 2 vCPUs
+- 4 GB RAM
+- 25–40 GB virtuelle Festplatte
+- 1 virtuelle Netzwerkkarte
+- Netzwerkmodus abhängig vom Zweck, zum Beispiel NAT oder internes/isoliertes Netzwerk
+
+
+ERWEITERUNGSAUFGABE 1: VIRTUALISIERUNGSSOFTWARE UNTERSUCHEN
+
+Verwendete Software:
+Oracle VirtualBox
+
+CPU finden
+1. VM auswählen.
+2. Einstellungen öffnen.
+3. Bereich „System“ wählen.
+4. Reiter „Prozessor“ öffnen.
+5. Dort kann die Anzahl der virtuellen CPUs eingestellt werden.
+
+Arbeitsspeicher finden
+1. VM auswählen.
+2. Einstellungen öffnen.
+3. Bereich „System“ wählen.
+4. Reiter „Hauptplatine“ öffnen.
+5. Dort wird der Hauptspeicher in MB eingestellt.
+
+Festplatte finden
+1. VM auswählen.
+2. Einstellungen öffnen.
+3. Bereich „Massenspeicher“ öffnen.
+4. Virtuelle Festplatte unter dem Controller auswählen.
+5. Dort sind unter anderem Format, virtuelle Größe und tatsächliche Größe sichtbar.
+
+Netzwerkkarte finden
+1. VM auswählen.
+2. Einstellungen öffnen.
+3. Bereich „Netzwerk“ wählen.
+4. Adapter auswählen.
+5. Dort kann der Adapter aktiviert und der Netzwerkmodus gewählt werden.
+
+Beispiel aus meiner Lubuntu-VM:
+- 2 CPUs
+- 4096 MB RAM
+- 25 GB VDI-Festplatte
+- Host-only Adapter
+
+
+ERWEITERUNGSAUFGABE 2: SOFTWAREVERGLEICH
+
+VirtualBox
+Hypervisor-Typ: Typ 2
+Plattform: Windows, Linux, macOS
+Typischer Einsatz: Lernen, Tests, Entwicklung
+Bedienbarkeit: relativ einfach
+Eignung: sehr gut für Lernen und Testen
+
+VMware Workstation
+Hypervisor-Typ: Typ 2
+Plattform: vor allem Windows und Linux
+Typischer Einsatz: Desktop-Virtualisierung, Entwicklung, Tests
+Bedienbarkeit: gut
+Eignung: sehr gut für Test- und Entwicklungsumgebungen
+
+VMware ESXi
+Hypervisor-Typ: Typ 1
+Plattform: direkte Installation auf Serverhardware
+Typischer Einsatz: Servervirtualisierung
+Bedienbarkeit: anspruchsvoller
+Eignung: sehr gut für professionellen Serverbetrieb
+
+Empfehlung für Lernzwecke
+Für Lernzwecke würde ich VirtualBox wählen, weil es einfach zu installieren ist, auf einem normalen PC genutzt werden kann und sich gut zum Erstellen, Klonen und Testen von VMs eignet.
+
+
+ERWEITERUNGSAUFGABE 3: ARCHITEKTUR-SKIZZE
+
+Physische Hardware
+|
+|-- CPU
+|-- RAM
+|-- SSD / Festplatte
+|-- Physische Netzwerkkarte
+|
+v
+Host-Betriebssystem: Windows 11
+|
+v
+Hypervisor: Oracle VirtualBox
+|
+|-----------------------------|
+|                             |
+v                             v
+VM 1                          VM 2
+Lubuntu_spaß                  Test-VM
+|
+|-- 2 vCPU
+|-- 4 GB vRAM
+|-- 25 GB VDI
+|-- virtuelle Netzwerkkarte
+|   Host-only Adapter
+|
+v
+Gastbetriebssystem:
+Ubuntu 24.04 LTS
+
+
+REFLEXION
+
+Was ist für dich der wichtigste Unterschied zwischen physischer und virtueller Hardware?
+Physische Hardware ist tatsächlich im Computer eingebaut. Virtuelle Hardware wird vom Hypervisor bereitgestellt und verwendet Ressourcen des Hosts.
+
+In welchem Einsatzgebiet erscheint dir Virtualisierung am sinnvollsten und warum?
+Besonders sinnvoll finde ich Virtualisierung für Testumgebungen. Neue Programme können ausprobiert werden, ohne das Hauptsystem direkt zu verändern.
+
+Wann würdest du eher einen Hypervisor Typ 1 wählen, wann eher Typ 2?
+Typ 1 würde ich für Server und mehrere produktive VMs verwenden. Typ 2 eignet sich besser für Lernen, Tests und einzelne VMs auf einem normalen Arbeitsplatzrechner.
+
+Welche virtuelle Hardware-Komponente war für dich am leichtesten zu verstehen, welche am schwierigsten?
+RAM und Festplattengröße sind leicht zu verstehen, weil sie direkt als Zahlen angegeben werden. Die Netzwerkkarte und die verschiedenen Netzwerkmodi sind schwieriger, weil sie bestimmen, wie die VM mit Host, anderen Geräten und dem Internet kommuniziert.
+
+Worauf würdest du bei der Planung einer VM in der Praxis besonders achten?
+Ich würde darauf achten, der VM genügend Ressourcen zu geben, aber den Host nicht zu überlasten. Außerdem würde ich den Netzwerkmodus passend zum Einsatzzweck auswählen.
+
+Fazit
+Die praktische Arbeit mit VirtualBox zeigt gut, wie physische Ressourcen in virtuelle Hardware aufgeteilt werden. Meine Lubuntu-VM verwendet 2 vCPUs, 4 GB RAM, eine dynamische 25-GB-VDI-Festplatte und aktuell einen Host-only Netzwerkadapter. Dadurch konnte ich die theoretischen Grundlagen direkt mit einer realen VM-Konfiguration verbinden.
