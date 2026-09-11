@@ -1,0 +1,280 @@
+Individuelle Learning Phase: IT-Sicherheit im Alltag Passwörter, Anhänge
+und sichere Systempflege
+
+AUFGABE 1: SYSTEM-SICHERHEITSCHECK
+
+Betriebssystem - Betriebssystem: Windows 11 Pro - Version: 25H2 -
+Installiert am: 16.08.2026 - Betriebssystembuild: 26200.9445 - Windows
+Feature Experience Pack: 1000.26100.360.0
+
+Sicherheitsübersicht
+
+Virenschutz Aktueller Status: Aktiv. Bei der letzten Schnellüberprüfung
+am 11.09.2026 um 15:13 Uhr wurden 11.825 Dateien geprüft und 0
+Bedrohungen gefunden. Einschätzung: in Ordnung.
+
+Firewall Aktueller Status: Aktiv für Domänennetzwerk, privates Netzwerk
+und öffentliches Netzwerk. Das öffentliche Netzwerk war zum Zeitpunkt
+der Prüfung aktiv. Einschätzung: in Ordnung.
+
+Software-Updates Aktueller Status: Windows meldet „Sie sind auf dem
+neuesten Stand“. Letzte Update-Prüfung am 11.09.2026 um 09:15 Uhr. Das
+letzte Sicherheitsupdate wurde am 09.09.2026 erfolgreich installiert.
+Einschätzung: in Ordnung.
+
+Letztes System-Update Am 09.09.2026 wurde das Windows-Sicherheitsupdate
+KB5124008 (Build 26200.9445) erfolgreich installiert. Ebenfalls am
+09.09.2026 wurde das .NET Framework Sicherheitsupdate KB5126052
+erfolgreich installiert.
+
+Die Option, die neuesten Updates sofort zu erhalten, sobald sie
+verfügbar sind, ist ausgeschaltet. Windows Update selbst ist aktiv und
+das System meldet aktuell, dass es auf dem neuesten Stand ist.
+
+Mein Praxisbezug - Virenschutz: Der Virenschutz hilft mir, schädliche
+Dateien und Programme zu erkennen. Ich achte darauf, dass der Schutz
+aktiv ist und keine aktuellen Bedrohungen gemeldet werden. - Firewall:
+Die Firewall kontrolliert Netzwerkverbindungen und schützt meinen
+Computer vor unerwünschten Zugriffen. Deshalb sollte sie besonders bei
+öffentlichen Netzwerken eingeschaltet sein. - Software-Updates: Updates
+schließen Sicherheitslücken und beheben Fehler. Deshalb kontrolliere ich
+regelmäßig den Update-Status meines Systems.
+
+AUFGABE 2: PASSWÖRTER SICHER PRÜFEN UND VERBESSERN
+
+Checkliste für sichere Passwörter - ausreichend lang - nicht leicht zu
+erraten - keine persönlichen Daten enthalten - für jeden Dienst
+unterschiedlich - nicht offen sichtbar notiert - nicht ungeschützt in
+einer Textdatei gespeichert - wenn möglich Mehrfaktor-Authentifizierung
+verwenden - nur auf der echten Website oder in der offiziellen Anwendung
+eingeben
+
+Bewertung meiner Passwort-Praxis Aus Sicherheitsgründen dokumentiere ich
+keine echten Passwörter. Ich prüfe nur deren Eigenschaften.
+
+1.  E-Mail-Konto
+
+-   Ich prüfe, ob das Passwort einzigartig und ausreichend lang ist.
+-   Persönliche Daten sollten nicht Bestandteil des Passworts sein.
+
+2.  Online-Konto
+
+-   Ich prüfe, ob dafür ein eigenes Passwort verwendet wird.
+-   Das Passwort sollte nicht leicht zu erraten sein.
+-   Eine sichere Speicherung ist wichtig.
+
+3.  Lernplattform
+
+-   Ich prüfe Länge und Einzigartigkeit des Passworts.
+-   Ich vermeide Namen, Geburtsdaten und einfache Zahlenfolgen.
+-   Wenn verfügbar, nutze ich zusätzliche Sicherheitsfunktionen.
+
+Regeln für drei fiktive Konten - E-Mail: eine lange, einzigartige
+Passphrase, die nur für dieses Konto verwendet wird. - Online-Shop: eine
+andere lange Passphrase ohne persönliche Daten. - Lernplattform: eine
+eigene Passphrase, die nicht für E-Mail oder Online-Shops
+wiederverwendet wird.
+
+Zukünftige Passwortverwaltung Ich möchte für jeden wichtigen Dienst ein
+eigenes starkes Passwort verwenden. Passwörter sollen nicht offen auf
+Papier oder ungeschützt in Dateien gespeichert werden. Für viele
+unterschiedliche Zugangsdaten ist ein seriöser Passwortmanager sinnvoll.
+Wo verfügbar, möchte ich außerdem Mehrfaktor-Authentifizierung
+verwenden.
+
+AUFGABE 3: PERSÖNLICHE DATEN RICHTIG SCHÜTZEN
+
+1.  Vollständiger Name Schutzstufe: sensibel Vorkommen: Verträge,
+    E-Mail, Konten Risiko: Identitätsmissbrauch oder unerwünschte
+    Kontaktaufnahme Schutz: nur an notwendige Stellen weitergeben
+
+2.  Adresse Schutzstufe: sensibel Vorkommen: Bestellungen, Verträge
+    Risiko: unerwünschte Kontaktaufnahme und Missbrauch zusammen mit
+    anderen Daten Schutz: nicht öffentlich veröffentlichen
+
+3.  Telefonnummer Schutzstufe: sensibel Vorkommen: Messenger, Konten,
+    Formulare Risiko: Spam, Betrugsanrufe und Phishing Schutz: nur
+    vertrauenswürdigen Stellen geben
+
+4.  Geburtsdatum Schutzstufe: sensibel Vorkommen: Konten, Verträge
+    Risiko: kann für Identitätsprüfung missbraucht werden Schutz: nicht
+    unnötig öffentlich angeben
+
+5.  E-Mail-Adresse Schutzstufe: sensibel Vorkommen: Online-Konten und
+    Kommunikation Risiko: Spam und Phishing Schutz: vorsichtig
+    veröffentlichen und Absender prüfen
+
+6.  Ausweisdaten Schutzstufe: besonders schützenswert Vorkommen:
+    Behörden, Verträge, Identitätsprüfung Risiko: Identitätsdiebstahl
+    Schutz: nur bei echtem Bedarf und über sichere Wege übermitteln
+
+7.  Bankverbindung Schutzstufe: besonders schützenswert Vorkommen: Bank,
+    Rechnungen und Zahlungen Risiko: finanzieller Missbrauch Schutz: nur
+    vertrauenswürdigen Empfängern mitteilen
+
+8.  Gesundheitsdaten Schutzstufe: besonders schützenswert Vorkommen:
+    Arzt und Krankenkasse Risiko: Verletzung der Privatsphäre Schutz:
+    besonders vertraulich behandeln und sicher speichern
+
+9.  Fotos Schutzstufe: sensibel Vorkommen: Smartphone, Cloud und soziale
+    Medien Risiko: ungewollte Weitergabe oder Veröffentlichung Schutz:
+    Freigaben und Privatsphäre-Einstellungen prüfen
+
+10. Standortdaten Schutzstufe: besonders schützenswert Vorkommen:
+    Smartphone, Apps und Navigation Risiko: Bewegungsprofil oder
+    unerwünschte Nachverfolgung Schutz: Standortfreigabe nur bei Bedarf
+    aktivieren
+
+Drei persönliche Regeln 1. Ich gebe persönliche Daten nur weiter, wenn
+sie wirklich benötigt werden. 2. Vor dem Absenden sensibler
+Informationen prüfe ich Empfänger, Website und Übertragungsweg. 3.
+Besonders schützenswerte Daten speichere oder versende ich nicht
+ungeschützt.
+
+AUFGABE 4: UNBEKANNTE ANHÄNGE UND VERDÄCHTIGE NACHRICHTEN PRÜFEN
+
+Beispiel 1: Unbekannte Rechnung mit Anhang Absender: unbekannt und nicht
+erwartet Betreff: angeblich offene Rechnung Sprache: erzeugt Druck und
+fordert schnelle Zahlung Anhang: unerwartete Datei Links: möglicherweise
+vorhanden Zeitdruck: hoch Login-/persönliche Daten: könnten angefordert
+werden Entscheidung: NICHT ÖFFNEN Begründung: Eine unerwartete Rechnung
+von einem unbekannten Absender ist verdächtig. Ich öffne den Anhang
+nicht und prüfe den angeblichen Absender gegebenenfalls über einen
+unabhängigen, bekannten Kontaktweg.
+
+Beispiel 2: Paketbenachrichtigung mit Link Absender: soll wie ein
+Paketdienst wirken Betreff: angebliches Problem mit einer Lieferung
+Sprache: Aufforderung, sofort zu handeln Anhang: keiner Link: vorhanden
+Zeitdruck: vorhanden Persönliche Daten: eventuell Adresse oder
+Zahlungsdaten gefordert Entscheidung: ZUERST WEITER PRÜFEN Begründung:
+Ich klicke nicht direkt auf den Link. Wenn ich tatsächlich ein Paket
+erwarte, öffne ich die offizielle Website oder App des Paketdienstes
+selbst.
+
+Beispiel 3: Angebliche Passwortwarnung Absender: muss genau geprüft
+werden Betreff: Konto werde angeblich gesperrt Sprache: starke
+Dringlichkeit Anhang: möglicherweise keiner Link: führt angeblich zur
+Anmeldung Zeitdruck: sehr hoch Login-Daten: werden möglicherweise
+verlangt Entscheidung: NICHT ÜBER DEN LINK ÖFFNEN Begründung: Ich gebe
+keine Zugangsdaten über einen Link aus einer verdächtigen Nachricht ein.
+Stattdessen öffne ich die bekannte offizielle Website oder App selbst.
+
+AUFGABE 5: PROGRAMME UND UPDATES SICHER VERWALTEN
+
+Geprüftes Programm - Programm: Oracle VirtualBox - Hersteller: Oracle -
+Installierte Version: 7.2.16 r174877 - Benutzeroberfläche: Qt 6.8.0 -
+Update-Prüfung: durchgeführt - Ergebnis: „Nichts zu aktualisieren“ -
+Status: aktuell - Vertrauenswürdige Bezugsquelle: offizielle
+Oracle-/VirtualBox-Quelle
+
+Betriebssystem-Update Ich habe Windows Update geprüft. Windows meldete,
+dass das System auf dem neuesten Stand ist. Das letzte
+Windows-Sicherheitsupdate KB5124008 wurde am 09.09.2026 erfolgreich
+installiert.
+
+Deinstallation Ich möchte aktuell kein Programm deinstallieren, weil ich
+nicht sicher bin, ob es noch benötigt wird. Deshalb dokumentiere ich den
+sicheren Weg: 1. Einstellungen öffnen. 2. „Apps“ und anschließend
+„Installierte Apps“ öffnen. 3. Das gewünschte Programm eindeutig
+identifizieren. 4. Prüfen, ob Programm oder dazugehörige Daten noch
+benötigt werden. 5. Erst dann „Deinstallieren“ auswählen. 6. Hinweise
+des offiziellen Deinstallationsprogramms beachten. 7. Keine unbekannten
+Zusatzprogramme zur Deinstallation installieren. 8. Nach Abschluss
+prüfen, ob das System normal funktioniert.
+
+Virenschutz, Firewall und Updates - Virenschutz: Erkennt und blockiert
+schädliche Dateien oder Programme. Bei meiner letzten Schnellüberprüfung
+wurden keine Bedrohungen gefunden. - Firewall: Regelt
+Netzwerkverbindungen und schützt vor unerwünschten Zugriffen. Auf meinem
+System ist sie für alle angezeigten Netzwerkprofile eingeschaltet. -
+Updates: Beheben Fehler und schließen bekannte Sicherheitslücken.
+Windows und VirtualBox wurden auf ihren aktuellen Update-Status geprüft.
+
+ERWEITERUNGSAUFGABE 1: SICHERE INSTALLATIONS-CHECKLISTE
+
+1.  Prüfen, ob das Programm wirklich benötigt wird.
+2.  Offizielle Herstellerseite oder eine andere vertrauenswürdige Quelle
+    verwenden.
+3.  Adresse der Website genau prüfen.
+4.  Dateiname und Dateiendung kontrollieren.
+5.  Keine unerwartete Zusatzsoftware mitinstallieren.
+6.  Angeforderte Berechtigungen kritisch prüfen.
+7.  Installationshinweise und wichtige Lizenzinformationen beachten.
+8.  Nach der Installation nach Updates suchen.
+9.  Prüfen, ob das Programm korrekt startet.
+10. Wissen, wie es bei Bedarf sicher deinstalliert werden kann.
+
+Anwendung auf VirtualBox Bei VirtualBox achte ich darauf, die Software
+nur aus einer offiziellen und vertrauenswürdigen Quelle zu beziehen.
+Nach der Installation kann die integrierte Update-Prüfung verwendet
+werden. Bei meiner aktuellen Prüfung meldete VirtualBox, dass nichts zu
+aktualisieren ist.
+
+ERWEITERUNGSAUFGABE 2: SICHERHEITSROUTINE FÜR DIE NÄCHSTEN 4 WOCHEN
+
+Woche 1 - Windows Update kontrollieren – ca. 5 Minuten -
+Virenschutz-Status prüfen – ca. 5 Minuten - Download-Ordner auf unnötige
+Dateien prüfen – ca. 10 Minuten
+
+Woche 2 - Passwort-Praxis bei wichtigen Konten prüfen – ca. 15 Minuten -
+Prüfen, wo Mehrfaktor-Authentifizierung genutzt werden kann – ca. 10
+Minuten - Nicht mehr benötigte Dateien sicher aufräumen – ca. 10 Minuten
+
+Woche 3 - Installierte Programme durchsehen – ca. 10 Minuten - Bei
+häufig verwendeten Programmen Updates prüfen – ca. 10 Minuten -
+Firewall- und Netzwerkstatus kontrollieren – ca. 5 Minuten
+
+Woche 4 - Aufmerksamkeit bei E-Mails trainieren – ca. 10 Minuten -
+Windows Update und Virenschutz erneut kontrollieren – ca. 10 Minuten -
+Sicherheitsroutine bewerten und anpassen – ca. 10 Minuten
+
+ERWEITERUNGSAUFGABE 3: RISIKOANALYSE – E-MAIL MIT UNBEKANNTEM ANHANG
+
+1.  Ich prüfe zuerst den vollständigen Absender und ob ich die Nachricht
+    erwartet habe.
+2.  Ich kontrolliere Betreff, Sprache und ungewöhnliche Formulierungen.
+3.  Ich öffne einen unerwarteten Anhang nicht aus Neugier.
+4.  Ich prüfe Dateiname und Dateiendung, ohne die Datei auszuführen.
+5.  Ich klicke nicht auf unbekannte Links und gebe keine Login-Daten
+    ein.
+6.  Bei angeblich wichtigen Nachrichten überprüfe ich den Sachverhalt
+    über die offizielle Website, App oder einen bekannten Kontaktweg.
+7.  Bei weiterhin bestehendem Verdacht öffne ich weder Link noch Anhang.
+8.  Ich gebe keine persönlichen Daten weiter, solange die Echtheit nicht
+    geklärt ist.
+
+REFLEXION
+
+Was hast du an deinem System entdeckt, das du vorher nicht bewusst
+wahrgenommen hast? Ich habe genauer gesehen, dass Windows die
+Sicherheitsbereiche getrennt anzeigt. Besonders hilfreich war die
+Kontrolle, dass die Firewall für Domänen-, private und öffentliche
+Netzwerke eingeschaltet ist. Außerdem habe ich den Updateverlauf genauer
+betrachtet.
+
+Wo liegt bei dir aktuell das größte Sicherheitsrisiko? Für mich ist
+besondere Aufmerksamkeit bei Anhängen und Links wichtig, weil
+verdächtige Nachrichten oft mit Zeitdruck arbeiten und zu einem
+schnellen Klick verleiten wollen.
+
+Welche Maßnahme kannst du noch heute direkt verbessern? Ich kann bei
+wichtigen Konten überprüfen, ob jedes Konto ein eigenes starkes Passwort
+verwendet und ob zusätzliche Anmeldesicherheit verfügbar ist.
+
+Was wirst du künftig vor dem Öffnen eines Anhangs oder vor einer
+Installation anders machen? Vor einem Anhang prüfe ich zuerst Absender,
+Kontext, Dateiname und Dateiendung. Vor einer Installation kontrolliere
+ich Quelle, Hersteller, angeforderte Berechtigungen und mögliche
+Zusatzsoftware.
+
+Welche deiner neuen Regeln ist für deinen Alltag am wichtigsten? Ich
+klicke nicht unter Zeitdruck auf unbekannte Links und öffne keine
+unerwarteten Anhänge. Wenn eine Nachricht wichtig erscheint, prüfe ich
+den Sachverhalt über einen unabhängigen und offiziellen Weg.
+
+Fazit Die Sicherheitsprüfung meines Systems zeigte einen guten aktuellen
+Zustand: Virenschutz und Firewall sind aktiv, Windows ist auf dem
+neuesten Stand und bei VirtualBox war kein Update verfügbar. Für meinen
+Alltag sind neben technischen Schutzfunktionen besonders ein
+vorsichtiger Umgang mit Passwörtern, persönlichen Daten, Links und
+Anhängen wichtig.
